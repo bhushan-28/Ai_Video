@@ -1,3 +1,0 @@
-1
-00:00:00,000 --> 00:00:05,099
-Toby found an ancient bronze key ✨

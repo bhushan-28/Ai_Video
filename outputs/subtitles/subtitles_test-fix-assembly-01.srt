@@ -1,7 +1,0 @@
-1
-00:00:00,000 --> 00:00:03,370
-Ruby the rabbit found a shiny red apple.
-
-2
-00:00:03,370 --> 00:00:07,429
-She happily shared the apple with her forest friends.
