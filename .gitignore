@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+!.env.example
+client/node_modules/
+server/node_modules/
+server/outputs/
+server/data/
