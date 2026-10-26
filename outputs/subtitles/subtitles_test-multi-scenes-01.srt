@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:04,089
+Scene 1: Animated story adventure!
+
+2
+00:00:04,089 --> 00:00:08,269
+Scene 2: Animated story adventure!
+
+3
+00:00:08,269 --> 00:00:12,480
+Scene 3: Animated story adventure!

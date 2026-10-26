@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:07,700
+A cute rabbit challenges a tortoise to a race thro...
+
+2
+00:00:07,700 --> 00:00:15,300
+The rabbit runs quickly, becomes overconfident, an...
+
+3
+00:00:15,300 --> 00:00:21,899
+The tortoise continues walking steadily along the ...
